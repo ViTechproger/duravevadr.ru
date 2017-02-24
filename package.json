@@ -1,0 +1,19 @@
+{
+  "name": "duravevadr.ru",
+  "version": "0.0.0",
+  "description": "Landing page Duraeva Daria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViTechproger/duravevadr.ru.git"
+  },
+  "author": "ParovozVK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViTechproger/duravevadr.ru/issues"
+  },
+  "homepage": "https://github.com/ViTechproger/duravevadr.ru"
+}
